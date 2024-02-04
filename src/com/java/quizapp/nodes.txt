@@ -1,0 +1,70 @@
+//Stores the questions 
+1. **General Knowledge:**
+   - What is the capital of France?
+     - A) London
+     - B) Paris
+     - C) Berlin
+     - D) Rome
+     
+2. **Science:**
+   - What is the chemical symbol for water?
+     - A) H2O
+     - B) CO2
+     - C) O2
+     - D) CH4
+
+3. **Mathematics:**
+   - What is the result of 5 + 7?
+     - A) 10
+     - B) 12
+     - C) 14
+     - D) 16
+
+4. **History:**
+   - In which year did World War II end?
+     - A) 1945
+     - B) 1939
+     - C) 1941
+     - D) 1943
+
+5. **Programming:**
+   - Which programming language is known for its use in building Android applications?
+     - A) Java
+     - B) Python
+     - C) C++
+     - D) Ruby
+
+6. **Geography:**
+   - What is the longest river in the world?
+     - A) Nile
+     - B) Amazon
+     - C) Yangtze
+     - D) Mississippi
+
+7. **Movies:**
+   - Who played the character of Iron Man in the Marvel Cinematic Universe?
+     - A) Chris Evans
+     - B) Chris Hemsworth
+     - C) Robert Downey Jr.
+     - D) Mark Ruffalo
+
+8. **Sports:**
+   - In which sport would you perform a slam dunk?
+     - A) Soccer
+     - B) Basketball
+     - C) Tennis
+     - D) Golf
+
+9. **Literature:**
+   - Who wrote the play "Romeo and Juliet"?
+     - A) Charles Dickens
+     - B) William Shakespeare
+     - C) Jane Austen
+     - D) F. Scott Fitzgerald
+
+10. **Technology:**
+    - What does the acronym "HTML" stand for?
+      - A) Hyperlink and Text Markup Language
+      - B) Hyper Text Markup Language
+      - C) High-Level Text Markup Language
+      - D) Hyper Transfer Markup Language

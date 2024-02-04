@@ -14,7 +14,7 @@ public class Questions {
 		}
 
 		public Questions(String question, String opt1, String opt2, String opt3, String opt4) {
-			//error
+			
 			Question = question;
 			this.opt1 = opt1;
 			this.opt2 = opt2;
